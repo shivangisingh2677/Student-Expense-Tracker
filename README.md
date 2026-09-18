@@ -66,15 +66,12 @@ StudentExpenseTracker/
 ├── README.md
 ├── statement.md
 │
-├── src/
-│   └── expense_tracker/
-│       ├── Main.java
-│       ├── Expense.java
-│       ├── ExpenseManager.java
-│       └── FileManager.java
-│
-└── data/
-    └── expenses.txt
+└── src/
+   └── expense_tracker/
+       ├── Main.java
+       ├── Expense.java
+       ├── ExpenseManager.java
+       └── FileManager.java
 ```
 
 ## How to Run
